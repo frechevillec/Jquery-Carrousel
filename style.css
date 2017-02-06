@@ -1,0 +1,27 @@
+.container{
+	display:flex;
+	justify-content: center;
+}
+
+#slider {
+	display: flex;
+	align-items:center;
+	justify-content: center;
+	background: #c0c0c0;
+}
+
+img{
+	height: 500px;
+	width: 300px;
+}
+
+#previous {
+	align-self: center;
+	margin: 0 15px 0 0;
+}
+
+#next {
+	align-self: center;
+	margin: 0 0 0 15px;
+
+}
